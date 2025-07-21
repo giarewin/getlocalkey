@@ -1,0 +1,11 @@
+{
+    "name": "Get Local Key Tuya",
+    "render_readme": true,
+    "domain": "getlocalkey",
+    "documentation": "https://github.com/getlocalkey/CozyLife",
+    "issue_tracker": "https://github.com/getlocalkey/CozyLife/issues",
+    "content_in_root": false,
+    "homeassistant": "2025.1.0",
+    "logo": "images/icon.png",
+    "icon": "images/icon.png"
+  }
