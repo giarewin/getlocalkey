@@ -2,7 +2,7 @@
   "domain": "getlocalkey",
   "name": "Get LocalKey Tuya",
   "version": "1.0.0",
-  "documentation": "https://github.com/yourusername/getlocalkey",
+  "documentation": "https://github.com/giarewin/getlocalkey",
   "requirements": [],
   "codeowners": ["@yourusername"],
   "dependencies": [],
