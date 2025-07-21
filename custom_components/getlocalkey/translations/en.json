@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Get LocalKey Tuya",
+        "description": "Enter Tuya API credentials to retrieve device local keys.",
+        "data": {
+          "client_id": "Client ID",
+          "client_secret": "Client Secret",
+          "uid": "UID",
+          "region": "Region"
+        }
+      }
+    },
+    "error": {
+      "auth_failed": "Failed to connect to Tuya API. Check credentials."
+    },
+    "abort": {
+      "already_configured": "This Tuya account is already configured."
+    }
+  }
+}
