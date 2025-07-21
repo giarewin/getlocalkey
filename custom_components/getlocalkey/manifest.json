@@ -1,10 +1,10 @@
 {
   "domain": "getlocalkey",
-  "name": "Get LocalKey",
+  "name": "Get LocalKey Tuya",
   "version": "1.0.0",
-  "config_flow": true,
-  "documentation": "https://example.com/getlocalkey-docs",
-  "requirements": ["requests"],
+  "documentation": "https://github.com/yourusername/getlocalkey",
+  "requirements": [],
+  "codeowners": ["@yourusername"],
   "dependencies": [],
-  "codeowners": ["@your-github-handle"]
+  "iot_class": "cloud_polling"
 }
