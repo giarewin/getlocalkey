@@ -1,5 +1,5 @@
 {
-    "name": "Get Local Key Tuya",
+    "name": "Get LocalKey Tuya",
     "render_readme": true,
     "domain": "getlocalkey",
     "documentation": "https://github.com/getlocalkey/CozyLife",
