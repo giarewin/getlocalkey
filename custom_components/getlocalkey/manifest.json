@@ -1,0 +1,10 @@
+{
+  "domain": "getlocalkey",
+  "name": "Get LocalKey",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://example.com/getlocalkey-docs",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@your-github-handle"]
+}
