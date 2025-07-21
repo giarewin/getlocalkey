@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "config_flow": true,
   "documentation": "https://example.com/getlocalkey-docs",
-  "requirements": [],
+  "requirements": ["requests"],
   "dependencies": [],
   "codeowners": ["@your-github-handle"]
 }
